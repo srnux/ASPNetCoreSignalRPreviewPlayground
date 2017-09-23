@@ -1,0 +1,10 @@
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\bin\Debug\netcoreapp2.1\HelloSignal21.deps.json
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\bin\Debug\netcoreapp2.1\HelloSignal21.runtimeconfig.json
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\bin\Debug\netcoreapp2.1\HelloSignal21.runtimeconfig.dev.json
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\bin\Debug\netcoreapp2.1\HelloSignal21.dll
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\bin\Debug\netcoreapp2.1\HelloSignal21.pdb
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\obj\Debug\netcoreapp2.1\HelloSignal21.csproj.CoreCompileInputs.cache
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\obj\Debug\netcoreapp2.1\HelloSignal21.AssemblyInfoInputs.cache
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\obj\Debug\netcoreapp2.1\HelloSignal21.AssemblyInfo.cs
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\obj\Debug\netcoreapp2.1\HelloSignal21.dll
+C:\Projects\AspNetCoreSignalRAngular\HelloSignal21\obj\Debug\netcoreapp2.1\HelloSignal21.pdb
